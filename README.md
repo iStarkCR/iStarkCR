@@ -9,8 +9,8 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=iStarkCR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iStarkCR&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=iStarkCR&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iStarkCR&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 <br>
@@ -36,7 +36,7 @@
    </div>
 
    <div style="display: inline"><br>
-    <h1 style="border-bottom: none"  align="center">Frameworks and Tools <3</h1>
+    <h1 align="center">Frameworks and Tools <3</h1>
     <a href="" target="_blank"> <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/nodejs.svg" > </a>
     <a href="" target="_blak"> <img align="center" height="30" width="40" alt="docker-icon" src="icons/docker.svg" > </a>
     <a href="" target="_blank"> <img align="center" height="30" width="40" alt="git-icon" src="icons/git.svg" > </a>
@@ -45,8 +45,8 @@
     <a href="" target="_blank"> <img align="center" height="30" width="40" alt="arduino-icon" src="icons/arduino.svg" > </a>
     <br>
     <br>
-    <h1 style="margin-left: 330px; border-bottom: none" >Redes Sociais</h1>
-    <p style="margin-left: 330px;">
+    <h1 >Redes Sociais</h1>
+    <p al>
       <a href = "https://www.linkedin.com/in/bukowiski/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
       <a href = "https://www.instagram.com/istark_cr/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
     </p>
