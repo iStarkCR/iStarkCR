@@ -25,12 +25,13 @@
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="html-icon" src="icons/html.svg" > </a>
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="css-icon" src="icons/css.svg" > </a>
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="c#-icon" src="icons/csharp.svg" > </a>
-      <a href="" target="_blank"> <img align="center" height="30" width="40" alt="c-icon" src="icons/c.svg" > </a>
+      <!-- <a href="" target="_blank"> <img align="center" height="30" width="40" alt="c-icon" src="icons/c.svg" > </a> -->
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="java-icon" src="icons/java.svg" > </a>
-      <a href="" target="_blank"> <img align="center" height="30" width="40" alt="android-icon" src="icons/android.svg" > </a>
+       <!-- <a href="" target="_blank"> <img align="center" height="30" width="40" alt="android-icon" src="icons/android.svg" > </a> 1-->
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="php-icon" src="icons/php_elephant.svg" > </a>
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="python-icon" src="icons/python.svg" > </a>
-      <a href="" target="_blank"> <img align="center" height="30" width="40" alt="cpp-icon" src="icons/cpp.svg" > </a><br>
+      <!--  <a href="" target="_blank"> <img align="center" height="30" width="40" alt="cpp-icon" src="icons/cpp.svg" > </a> --> 
+     <br><br>
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="nodejs-icon" src="icons/nodejs.svg" > </a>
       <a href="" target="_blak"> <img align="center" height="30" width="40" alt="docker-icon" src="icons/docker.svg" > </a>
       <a href="" target="_blank"> <img align="center" height="30" width="40" alt="git-icon" src="icons/git.svg" > </a>
